@@ -1,0 +1,10 @@
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TodoListApp\obj\Debug\TodoListApp.csproj.AssemblyReference.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TodoListApp\obj\Debug\TodoListApp.Properties.Resources.resources
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TodoListApp\obj\Debug\TodoListApp.csproj.GenerateResource.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TodoListApp\obj\Debug\TodoListApp.csproj.CoreCompileInputs.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TodoListApp\bin\Debug\TodoListApp.exe.config
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TodoListApp\bin\Debug\TodoListApp.exe
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TodoListApp\bin\Debug\TodoListApp.pdb
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TodoListApp\obj\Debug\TodoListApp.Form1.resources
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TodoListApp\obj\Debug\TodoListApp.exe
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TodoListApp\obj\Debug\TodoListApp.pdb

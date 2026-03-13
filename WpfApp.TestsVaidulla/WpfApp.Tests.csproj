@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+		<!-- Изменили с net9.0 на net4.8 -->
+		<LangVersion>latest</LangVersion>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<IsPackable>false</IsPackable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MSTest.TestFramework" Version="3.2.0" />
+		<!-- Более старая версия для .NET Framework -->
+		<PackageReference Include="MSTest.TestAdapter" Version="3.2.0" />
+		<PackageReference Include="coverlet.collector" Version="6.0.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\WpfApp\WpfApp.csproj" />
+	</ItemGroup>
+
+</Project>

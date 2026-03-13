@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "tu2Wbtu0gtY=",
+  "success": true,
+  "projectFilePath": "D:\\AkbievVaidullaRuslanovij\\ПоддержкаИТестирование\\WpfApp.Tests\\WpfApp.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.0.0\\microsoft.testing.extensions.telemetry.1.0.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.0.0\\microsoft.testing.extensions.trxreport.abstractions.1.0.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.0.0\\microsoft.testing.extensions.vstestbridge.1.0.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\microsoft.testing.platform\\1.0.0\\microsoft.testing.platform.1.0.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.0.0\\microsoft.testing.platform.msbuild.1.0.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\mstest.testadapter\\3.2.0\\mstest.testadapter.3.2.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\mstest.testframework\\3.2.0\\mstest.testframework.3.2.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\rpk2024.6\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

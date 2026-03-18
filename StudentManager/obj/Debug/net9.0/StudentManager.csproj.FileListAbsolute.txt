@@ -1,0 +1,12 @@
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\bin\Debug\net9.0\StudentManager.deps.json
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\bin\Debug\net9.0\StudentManager.dll
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\bin\Debug\net9.0\StudentManager.pdb
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\obj\Debug\net9.0\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\obj\Debug\net9.0\StudentManager.AssemblyInfoInputs.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\obj\Debug\net9.0\StudentManager.AssemblyInfo.cs
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\obj\Debug\net9.0\StudentManager.csproj.CoreCompileInputs.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\obj\Debug\net9.0\StudentManager.sourcelink.json
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\obj\Debug\net9.0\StudentManager.dll
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\obj\Debug\net9.0\refint\StudentManager.dll
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\obj\Debug\net9.0\StudentManager.pdb
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\StudentManager\obj\Debug\net9.0\ref\StudentManager.dll

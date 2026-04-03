@@ -1,0 +1,11 @@
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\bin\Debug\TaskManager_Light.exe.config
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\bin\Debug\TaskManager_Light.exe
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\bin\Debug\TaskManager_Light.pdb
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\obj\Debug\TaskManager_Light.csproj.AssemblyReference.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\obj\Debug\TaskManager_Light.Form1.resources
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\obj\Debug\TaskManager_Light.Properties.Resources.resources
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\obj\Debug\TaskManager_Light.csproj.GenerateResource.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\obj\Debug\TaskManager_Light.csproj.CoreCompileInputs.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\obj\Debug\TaskManager_Light.exe
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\obj\Debug\TaskManager_Light.pdb
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\TaskManager_Light\obj\Debug\TaskManager_Light.exe.config

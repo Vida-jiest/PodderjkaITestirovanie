@@ -1,0 +1,10 @@
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\VaidullaLR3\VaidullaLR3\bin\Debug\VaidullaLR3.exe.config
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\VaidullaLR3\VaidullaLR3\bin\Debug\VaidullaLR3.exe
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\VaidullaLR3\VaidullaLR3\bin\Debug\VaidullaLR3.pdb
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\VaidullaLR3\VaidullaLR3\obj\Debug\VaidullaLR3.csproj.AssemblyReference.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\VaidullaLR3\VaidullaLR3\obj\Debug\VaidullaLR3.Form1.resources
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\VaidullaLR3\VaidullaLR3\obj\Debug\VaidullaLR3.Properties.Resources.resources
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\VaidullaLR3\VaidullaLR3\obj\Debug\VaidullaLR3.csproj.GenerateResource.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\VaidullaLR3\VaidullaLR3\obj\Debug\VaidullaLR3.csproj.CoreCompileInputs.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\VaidullaLR3\VaidullaLR3\obj\Debug\VaidullaLR3.exe
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\VaidullaLR3\VaidullaLR3\obj\Debug\VaidullaLR3.pdb

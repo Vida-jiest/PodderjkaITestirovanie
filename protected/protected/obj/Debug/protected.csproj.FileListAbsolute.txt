@@ -1,0 +1,6 @@
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\protected\protected\obj\Debug\protected.csproj.AssemblyReference.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\protected\protected\obj\Debug\MainWindow.g.cs
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\protected\protected\obj\Debug\App.g.cs
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\protected\protected\obj\Debug\@protected_Content.g.cs
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\protected\protected\obj\Debug\@protected_MarkupCompile.cache
+D:\AkbievVaidullaRuslanovij\ПоддержкаИТестирование\protected\protected\obj\Debug\@protected_MarkupCompile.lref

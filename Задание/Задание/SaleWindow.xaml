@@ -1,0 +1,71 @@
+﻿<Window x:Class="Задание.SaleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Новая продажа" Height="450" Width="550"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="20,0"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Cursor" Value="Hand"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Margin" Value="0,0,0,10"/>
+            <Setter Property="FontSize" Value="13"/>
+        </Style>
+        <Style TargetType="ComboBox">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Margin" Value="0,0,0,10"/>
+            <Setter Property="FontSize" Value="13"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <Label Content="Лекарство:*" FontWeight="Bold" Margin="0,0,0,5"/>
+            <ComboBox x:Name="cbMedicine" DisplayMemberPath="Название" SelectionChanged="cbMedicine_SelectionChanged"/>
+            <Label Content="Покупатель:*" FontWeight="Bold" Margin="0,10,0,5"/>
+            <ComboBox x:Name="cbCustomer" DisplayMemberPath="ФИО"/>
+            <Label Content="Продавец:*" FontWeight="Bold" Margin="0,10,0,5"/>
+            <ComboBox x:Name="cbSeller" DisplayMemberPath="ФИО"/>
+            <Label Content="Рецепт (если есть):" Margin="0,10,0,5"/>
+            <ComboBox x:Name="cbPrescription" DisplayMemberPath="Номер_рецепта"/>
+
+            <WrapPanel Margin="0,10,0,0">
+                <StackPanel Width="150" Margin="0,0,20,0">
+                    <Label Content="Количество:*" FontWeight="Bold" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtQuantity" Text="1" TextChanged="txtQuantity_TextChanged"/>
+                </StackPanel>
+                <StackPanel Width="150" Margin="0,0,20,0">
+                    <Label Content="Цена:" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtPrice" IsReadOnly="True" Background="#F0F0F0"/>
+                </StackPanel>
+                <StackPanel Width="150">
+                    <Label Content="Сумма:" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtTotal" IsReadOnly="True" Background="#F0F0F0" FontWeight="Bold"/>
+                </StackPanel>
+            </WrapPanel>
+
+            <Label Content="Способ оплаты:" Margin="0,10,0,5"/>
+            <ComboBox x:Name="cbPaymentMethod">
+                <ComboBoxItem>Наличные</ComboBoxItem>
+                <ComboBoxItem>Карта</ComboBoxItem>
+                <ComboBoxItem>Перевод</ComboBoxItem>
+            </ComboBox>
+
+            <TextBlock x:Name="lblStock" Foreground="Blue" Margin="0,10,0,0" FontStyle="Italic"/>
+            <TextBlock x:Name="lblRequired" Foreground="Red" Margin="0,15,0,0" Text="* - обязательные поля" FontSize="11"/>
+        </StackPanel>
+
+        <WrapPanel Grid.Row="1" HorizontalAlignment="Center" Margin="0,20,0,0">
+            <Button x:Name="btnSave" Content="Оформить продажу" Background="#4CAF50" Foreground="White" Width="140" Click="btnSave_Click"/>
+            <Button x:Name="btnCancel" Content="Отмена" Background="#9E9E9E" Foreground="White" Width="120" Click="btnCancel_Click"/>
+        </WrapPanel>
+    </Grid>
+</Window>
